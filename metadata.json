@@ -1,0 +1,11 @@
+{
+  "name": "BUDGETBITE AI",
+  "description": "Tell us your budget. We'll find your best meal. Multi-cuisine budget-first food delivery platform with AI recommendations, voice search, live tracking, and smart cart in ₹ INR.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
